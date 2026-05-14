@@ -1,0 +1,9 @@
+
+UPDATED FEATURES
+- Added PTA Tax Calculator
+- Added Pakistan Salary Tax Calculator
+- Added Passport Size Photo Maker
+- Fixed broken OG image URL
+- Added navbar links
+- Added homepage tool cards
+- Improved Pakistan-focused utility support
